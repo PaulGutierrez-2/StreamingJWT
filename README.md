@@ -134,3 +134,9 @@ El servidor estará disponible en [http://localhost:3000](http://localhost:3000)
   Authorization: Bearer <token>
   ```
 - Consulta los comentarios en los controladores para ejemplos de uso y body en formato JSON.
+
+## Más información
+
+- Consulta los comentarios en los controladores para ejemplos de uso, rutas y formato de los bodies en JSON.
+- El sistema es extensible: puedes agregar más roles y permisos según tus necesidades.
+- [Ver detalles de autenticación, roles y ejemplos de endpoints en el README de `src`](./src/README.md)
